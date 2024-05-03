@@ -60,8 +60,6 @@ public class MainClass {
 		System.out.printf("정수값 출력 : %d", num1);  // 오래된 프로그래머 또는 C 언어에서는 이렇게 사용함
 
 		
-		
-		
 	}
 }
 
