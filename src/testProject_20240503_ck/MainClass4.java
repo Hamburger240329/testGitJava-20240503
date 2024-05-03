@@ -39,6 +39,12 @@ public class MainClass4 {
 		
 		sum *= i;  // sum = sum * i;
 		
+		int x1 = 10;
+		int y1 = 5;
+		
+		System.out.println((x1>7) && (y1 <=5));
+		System.out.println((x1%3 == 2) || (y1%2 !=1));
+					
 		
 	}
 	
