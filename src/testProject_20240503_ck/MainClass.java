@@ -57,6 +57,9 @@ public class MainClass {
 		
 		System.out.println("문자열로 변환된 값: " + numStr1);  // 파이썬의 f스트링이 없기때문에 이렇게 작성하면 됨 
 		
+		System.out.printf("정수값 출력 : %d", num1);  // 오래된 프로그래머 또는 C 언어에서는 이렇게 사용함
+
+		
 		
 		
 	}
