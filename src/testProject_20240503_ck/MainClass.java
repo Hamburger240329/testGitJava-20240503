@@ -1,4 +1,4 @@
-package testProject_20240503;
+package testProject_20240503_ck;
 
 public class MainClass {
 
